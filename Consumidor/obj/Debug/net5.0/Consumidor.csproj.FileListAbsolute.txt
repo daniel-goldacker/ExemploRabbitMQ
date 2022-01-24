@@ -1,0 +1,17 @@
+/Users/danielgoldacker/Desktop/ExemploRabbitMQ/Consumidor/obj/Debug/net5.0/Consumidor.csproj.AssemblyReference.cache
+/Users/danielgoldacker/Desktop/ExemploRabbitMQ/Consumidor/obj/Debug/net5.0/Consumidor.GeneratedMSBuildEditorConfig.editorconfig
+/Users/danielgoldacker/Desktop/ExemploRabbitMQ/Consumidor/obj/Debug/net5.0/Consumidor.AssemblyInfoInputs.cache
+/Users/danielgoldacker/Desktop/ExemploRabbitMQ/Consumidor/obj/Debug/net5.0/Consumidor.AssemblyInfo.cs
+/Users/danielgoldacker/Desktop/ExemploRabbitMQ/Consumidor/obj/Debug/net5.0/Consumidor.csproj.CoreCompileInputs.cache
+/Users/danielgoldacker/Desktop/ExemploRabbitMQ/Consumidor/bin/Debug/net5.0/Consumidor.deps.json
+/Users/danielgoldacker/Desktop/ExemploRabbitMQ/Consumidor/bin/Debug/net5.0/Consumidor.runtimeconfig.json
+/Users/danielgoldacker/Desktop/ExemploRabbitMQ/Consumidor/bin/Debug/net5.0/Consumidor.runtimeconfig.dev.json
+/Users/danielgoldacker/Desktop/ExemploRabbitMQ/Consumidor/bin/Debug/net5.0/Consumidor.dll
+/Users/danielgoldacker/Desktop/ExemploRabbitMQ/Consumidor/bin/Debug/net5.0/ref/Consumidor.dll
+/Users/danielgoldacker/Desktop/ExemploRabbitMQ/Consumidor/bin/Debug/net5.0/Consumidor.pdb
+/Users/danielgoldacker/Desktop/ExemploRabbitMQ/Consumidor/bin/Debug/net5.0/RabbitMQ.Client.dll
+/Users/danielgoldacker/Desktop/ExemploRabbitMQ/Consumidor/obj/Debug/net5.0/Consumidor.csproj.CopyComplete
+/Users/danielgoldacker/Desktop/ExemploRabbitMQ/Consumidor/obj/Debug/net5.0/Consumidor.dll
+/Users/danielgoldacker/Desktop/ExemploRabbitMQ/Consumidor/obj/Debug/net5.0/ref/Consumidor.dll
+/Users/danielgoldacker/Desktop/ExemploRabbitMQ/Consumidor/obj/Debug/net5.0/Consumidor.pdb
+/Users/danielgoldacker/Desktop/ExemploRabbitMQ/Consumidor/obj/Debug/net5.0/Consumidor.genruntimeconfig.cache
