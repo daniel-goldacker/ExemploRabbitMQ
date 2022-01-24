@@ -21,7 +21,7 @@ namespace Consumidor
                 using (var channel = connection.CreateModel())
                 {
                     // Declaramos a fila apartir da qual vamos consumir as mensagens 
-                 channel.QueueDeclare(queue: "saudacao_1",
+                 channel.QueueDeclare(queue: "meu_primeiro_rabbitmq_1",
                                       durable: false,
                                       exclusive: false,
                                       autoDelete: false,
@@ -40,7 +40,7 @@ namespace Consumidor
                     };
 
                     // Indicamos o consumo da mensagem
-                    channel.BasicConsume(queue: "saudacao_1",
+                    channel.BasicConsume(queue: "meu_primeiro_rabbitmq_1",
                                          autoAck: true,
                                          consumer: consumer);
 

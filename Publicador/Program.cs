@@ -20,19 +20,19 @@ namespace Publicador
                 using (var channel = connection.CreateModel())
                 {
                     // Declaramos a fila apartir da qual vamos consumir as mensagens 
-                    channel.QueueDeclare(queue: "saudacao_1",
+                    channel.QueueDeclare(queue: "meu_primeiro_rabbitmq_1",
                                          durable: false,
                                          exclusive: false,
                                          autoDelete: false,
                                          arguments: null);
 
                     // Criamos a mensagem a ser posta na fila e codificamos a mensagem como um arrayu de bytes 
-                    string message = "Bem vindo ao RabbitMQ";
+                    string message = "Meu primeiro RabbitMQ";
                     var body = Encoding.UTF8.GetBytes(message);
 
                     // Publicamos a mensagem informando a fila e o corpo da mensagem
                     channel.BasicPublish(exchange: "",
-                                         routingKey: "saudacao_1",
+                                         routingKey: "meu_primeiro_rabbitmq_1",
                                          basicProperties: null,
                                          body: body);
 
